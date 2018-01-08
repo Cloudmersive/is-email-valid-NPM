@@ -13,7 +13,7 @@ npm install is-email-valid-full
 
 3. Call the API.  Here is an example on how to get started:
 
-```
+```javascript
 'use strict';
 
 var isEmail = require('is-email-valid-full');
