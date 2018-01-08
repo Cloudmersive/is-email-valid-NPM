@@ -1,6 +1,6 @@
 {
   "name": "is-email-valid-full",
-  "version": "1.0.8",
+  "version": "1.2.0",
   "description": "Fully validate an email address's syntactic correctness and existence as a real email address that will not bounce. Basic RFC validation also available.",
   "main": "lib/index.js",
   "scripts": {
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/Cloudmersive/is-email-valid-NPM/issues"
   },
-  "homepage": "https://github.com/Cloudmersive/is-email-valid-NPM#readme"
+  "homepage": "https://github.com/Cloudmersive/is-email-valid-NPM#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
