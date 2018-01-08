@@ -1,5 +1,10 @@
 # is-email-valid-NPM
-NodeJS NPM library for determining if an email address is fully valid.
+NodeJS NPM library for determining if an email address is fully valid.  This is much deeper than simply checking if the text string looks like an email address.  is-email-valid-full will do all of the following:
+
+- Check if the email address is valid syntactically
+- Contact the mail server and verify the existence of the account, without actually sending any email
+
+This ensures that the email addresses that you capture are real and will not bounce.
 
 ## Get Started
 
