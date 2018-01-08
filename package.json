@@ -2,7 +2,7 @@
   "name": "is-email-valid",
   "version": "1.0.1",
   "description": "Fully validate an email address's syntactic correctness and existence as a real email address that will not bounce. Basic RFC validation also available.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
