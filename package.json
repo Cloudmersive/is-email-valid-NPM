@@ -1,6 +1,6 @@
 {
   "name": "is-email-valid-full",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Fully validate an email address's syntactic correctness and existence as a real email address that will not bounce. Basic RFC validation also available.",
   "main": "lib/index.js",
   "scripts": {
